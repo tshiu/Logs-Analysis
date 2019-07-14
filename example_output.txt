@@ -1,0 +1,13 @@
+The top 3 articles by view are:
+Bears love berries, alleges bear - 253801 views
+Balloon goons doomed - 84557 views
+Bad things gone, say good people - 170098 views
+	
+Authors organized by view:
+Ursula La Multa - 507594 views
+Rudolf von Treppenwitz - 423457 views
+Anonymous Contributor - 170098 views
+Markoff Chaney - 84557 views
+	
+Days in which error rate was over .01%:
+2016-07-17 - 0.023 error rate
