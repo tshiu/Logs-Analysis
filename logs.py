@@ -44,9 +44,6 @@ def createViews(filename):
     c.execute(filename)
 
 def get_top_3():
-  # Create the first two views needed for this query
-  #c.execute(sqlCommands[0])
-  #c.execute(sqlCommands[1])
   c.execute(top_3_query)
   posts = c.fetchall()
   print "The top 3 articles by view are:"
