@@ -62,7 +62,6 @@ def get_error_day():
 
 
 if __name__ == '__main__':
-    createViews(views)
     get_top_3()
     get_top_author()
     get_error_day()
